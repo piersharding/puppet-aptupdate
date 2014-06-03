@@ -1,6 +1,6 @@
 # == Class: aptupdate
 #
-# Run update nad upgrade once only.
+# Run update and upgrade once only.
 #
 # === Parameters
 #
